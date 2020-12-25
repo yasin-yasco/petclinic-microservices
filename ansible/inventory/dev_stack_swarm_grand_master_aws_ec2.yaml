@@ -4,8 +4,7 @@ regions:
 filters:
   tag:app-stack-name: APP_STACK_NAME
   tag:environment: dev
-  tag:swarm-role: grand-master
-  
+  tag:swarm-role: grand-master  
 hostnames:
   - "private-ip-address"
 compose:
